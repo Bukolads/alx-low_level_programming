@@ -1,5 +1,5 @@
 #include <stdio.h>
-# the main will pprint out string
+/*the main will print out string*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
