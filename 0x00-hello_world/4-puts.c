@@ -1,5 +1,8 @@
 #include <stdio.h>
-/*the main will print out string*/
+/**
+ *   main - main block
+ *   Return: 0
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
