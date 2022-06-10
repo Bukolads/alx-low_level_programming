@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #include <math.h>
 
 /**
@@ -19,5 +20,6 @@ int main(void)
 		}
 		a--;
 	}
+
 	return (0);
 }
