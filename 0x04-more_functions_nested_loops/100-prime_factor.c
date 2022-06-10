@@ -2,9 +2,9 @@
 #include <math.h>
 
 /**
- * main - prime numbers
- * Return: Always 0.
- */
+* main - prime numbers
+* Return: Always 0.
+*/
 
 int main(void)
 {
